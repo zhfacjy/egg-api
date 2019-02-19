@@ -2,6 +2,8 @@
 
 ## QuickStart
 
+需要添加自己的config.default文件，本人的没上传
+
 <!-- add docs here for user -->
 
 see [egg docs][egg] for more detail.
