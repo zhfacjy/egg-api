@@ -3,7 +3,7 @@
 ## 配置文件
 
 需要添加自己的config.default文件，本人的没上传
-
+```bash
 module.exports = appInfo => {
   return {
     site: {
@@ -55,7 +55,7 @@ module.exports = appInfo => {
     },
   };
 };
-
+```
 ### 快速启动命令
 
 ```bash
