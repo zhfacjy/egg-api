@@ -7,7 +7,7 @@
 module.exports = appInfo => {
   return {
     site: {
-      base: xxx, // 项目基础地址
+      base: xxx, // 请求基地址
       secret: xxx, // jwt 加密盐
       grant_type: 'authorization_code', // 微信小程序登录验证路径参数
       appid: xxx, // 微信小程序appid
