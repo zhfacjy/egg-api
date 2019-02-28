@@ -2,7 +2,7 @@
 
 ## 配置文件
 
-需要添加自己的config.default文件，本人的没上传
+需要添加config.default文件
 ```bash
 module.exports = appInfo => {
   return {
