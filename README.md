@@ -2,7 +2,7 @@
 
 ## 配置文件
 
-需要添加config.default文件
+需要添加config.default.js文件到config文件夹内，内容格式如下
 ```bash
 module.exports = appInfo => {
   return {
